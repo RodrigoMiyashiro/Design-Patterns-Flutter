@@ -1,5 +1,6 @@
 import 'package:design_patterns/executors/design_pattern_abstract_factory.dart';
 import 'package:design_patterns/executors/design_pattern_builder.dart';
+import 'package:design_patterns/executors/design_pattern_decorator.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -33,7 +34,8 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void _incrementCounter() {
     // DesignPatternBuilder().execute();
-    DesignPatternAbstractFactory().execute();
+    // DesignPatternAbstractFactory().execute();
+    DesignPatternDecorator().execute();
 
     setState(() {
       _counter++;
