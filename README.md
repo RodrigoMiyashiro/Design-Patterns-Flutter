@@ -1,7 +1,7 @@
 # [Flutter] Design Patterns
 Objetivo deste repositório é ficarmos alinhados com alguns _Design Patterns_.
 
-![Type of Design Patterns](/assets/images/type of design patterns.png)
+![Type of Design Patterns](https://github.com/RodrigoMiyashiro/Design-Patterns-Flutter/blob/develop/assets/images/type%20of%20design%20patterns.png)
 
 ### Conteúdo
 - Código apresentando uma aplicação para o _Design Pattern_;
